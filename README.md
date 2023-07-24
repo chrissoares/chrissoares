@@ -6,8 +6,12 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&show_icons=true&layout=donut&theme=tokyonight" />
 </a>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisrsoares/)
+<a href="https://www.linkedin.com/in/chrisrsoares/">
+  <img height=28 align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.twitter.com/chrisrsoares">
+  <img height=28 align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
 
 <!--
 Compact: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&layout=compact)
