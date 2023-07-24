@@ -1,10 +1,9 @@
 ### Hi there 👋
-[![ChrisSoares's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrissoares)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&layout=compact)
 ![ChrisSoares's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrissoares&show_icons=true&theme=tokyonight )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight)]
+
 <!--
+Compact: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&layout=compact)
 No Have [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrissoares)](https://github.com/anuraghazra/github-readme-stats)
 **chrissoares/chrissoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
