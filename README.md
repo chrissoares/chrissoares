@@ -15,8 +15,16 @@
   <a href="https://www.twitter.com/chrisrsoares">
     <img height=28 align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
+  <a href="https://github.com/chrissoares">
+    <img height=28 align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+<div> 
+  <span>My hobbies:</span>
+  <img height=28 align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </div>
 
+![chrissoares's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chrissoares&theme=tokyonight&hide_border=true)
 <!--
 Compact: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&layout=compact)
 No Have [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrissoares)](https://github.com/anuraghazra/github-readme-stats)
