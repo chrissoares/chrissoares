@@ -26,6 +26,7 @@
 
 ![chrissoares's Stats](https://github-readme-stats.vercel.app/api?username=chrissoares&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![chrissoares's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chrissoares&theme=tokyonight&hide_border=true)
+![chrissoares's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <!--
 Compact: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&layout=compact)
 No Have [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrissoares)](https://github.com/anuraghazra/github-readme-stats)
