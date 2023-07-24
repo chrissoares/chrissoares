@@ -2,10 +2,10 @@
 
 <div> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chrissoares&show_icons=true&theme=tokyonight" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chrissoares&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&show_icons=true&layout=donut&theme=tokyonight" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&show_icons=true&layout=donut&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 <div>
@@ -24,6 +24,7 @@
   <img height=28 align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </div>
 
+![chrissoares's Stats](https://github-readme-stats.vercel.app/api?username=chrissoares&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![chrissoares's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chrissoares&theme=tokyonight&hide_border=true)
 <!--
 Compact: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&layout=compact)
