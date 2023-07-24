@@ -1,17 +1,21 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chrissoares&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&show_icons=true&layout=donut&theme=tokyonight" />
-</a>
-<a href="https://www.linkedin.com/in/chrisrsoares/">
-  <img height=28 align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.twitter.com/chrisrsoares">
-  <img height=28 align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
+<div> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chrissoares&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&show_icons=true&layout=donut&theme=tokyonight" />
+  </a>
+</div>
+<div>
+  <a href="https://www.linkedin.com/in/chrisrsoares/">
+    <img height=28 align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.twitter.com/chrisrsoares">
+    <img height=28 align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+</div>
 
 <!--
 Compact: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&layout=compact)
