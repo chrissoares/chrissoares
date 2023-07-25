@@ -13,43 +13,75 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200" src="https://github-profile-trophy.vercel.app/?username=chrissoares&column=-1&theme=tokyonight&no-frame=true" alt="chrissoares" /></a> </p>
 
 <h3 align="left">Languages:</h3>
+<table>
+    <tr align="center">
+        <td>
+            <a href="https://angular.io" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" height="28"/> 
+            </a>
+        </td>
+        <td>
+            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" height="28"/> 
+            </a>
+        </td>
+        <td>
+            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="28"/> 
+            </a>
+        </td>
+        <td>
+            <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" height="28"/> 
+            </a>
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="django rest framework" height="28"/> 
+            </a>
+        </td>
+        <td>
+            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="28"/> 
+            </a>
+        </td>
+        <td>
+            <a href="https://www.java.com" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" height="28"/> 
+            </a>
+        </td>
+        <td>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="28"/> 
+            </a>
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height="28"/> 
+            </a>
+        </td>
+        <td>
+            <a href="https://www.php.net" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" height="28"/> 
+            </a>
+        </td>
+        <td>
+            <a href="https://www.python.org" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" height="28"/> 
+            </a>
+        </td>
+        <td>
+            <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" height="28"/> 
+            </a>
+        </td>
+    </tr>
+</table>
 <div style="display: grid; grid-template-columns: auto auto auto;">
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" height="28"/> 
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" height="28"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="28"/> 
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" height="28"/> 
-    </a>
-    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="django rest framework" height="28"/> 
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="28"/> 
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" height="28"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="28"/> 
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height="28"/> 
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" height="28"/> 
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" height="28"/> 
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" height="28"/> 
-    </a>
 </div>
 <div>
     <h3 align="left">Database:</h3>
