@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200" src="https://github-profile-trophy.vercel.app/?username=chrissoares&column=-1&theme=tokyonight&no-frame=true" alt="chrissoares" /></a> </p>
 
 <h3 align="left">Languages:</h3>
-<table with="100%">
+<table >
     <tr align="center">
         <td>
             <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -35,8 +35,6 @@
                 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" height="28"/> 
             </a>
         </td>
-    </tr>
-    <tr align="center">
         <td>
             <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
                 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="django rest framework" height="28"/> 
@@ -47,6 +45,8 @@
                 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="28"/> 
             </a>
         </td>
+    </tr>
+    <tr align="center">
         <td>
             <a href="https://www.java.com" target="_blank" rel="noreferrer">
                 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" height="28"/> 
@@ -57,8 +57,6 @@
                 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="28"/> 
             </a>
         </td>
-    </tr>
-    <tr align="center">
         <td>
             <a href="https://nodejs.org" target="_blank" rel="noreferrer">
                 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height="28"/> 
