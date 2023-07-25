@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Javascript, React, Angular, Python**
 
-<div> 
+<div align="center"> 
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=chrissoares&show_icons=true&theme=tokyonight&hide_border=true" />
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&show_icons=true&layout=donut&theme=tokyonight&hide_border=true" />
     <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrissoares&theme=tokyonight&hide_border=true" />
