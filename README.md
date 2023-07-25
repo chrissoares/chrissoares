@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200" src="https://github-profile-trophy.vercel.app/?username=chrissoares&column=-1&theme=tokyonight&no-frame=true" alt="chrissoares" /></a> </p>
 
 <h3 align="left">Languages:</h3>
-<table>
+<table with="100%">
     <tr align="center">
         <td>
             <a href="https://angular.io" target="_blank" rel="noreferrer">
