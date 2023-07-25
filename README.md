@@ -124,23 +124,57 @@
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="visual studio" height="28"/>
     </a>
 </div>
-
+<h3 align="left">Browsers:</h3>
+    <a href="https://www.opera.com/gx">
+        <img height="28" align="center" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="opera gx"/>
+    </a>
+    <a href="https://www.google.com/intl/en_us/chrome/">
+        <img height="28" align="center" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="google chrome"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e00">
+        <img height="28" align="center" src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="google chrome"/>
+    </a>
+<div>
+<h3 align="left">I gaming in:</h3>
+    <a href="https://steamcommunity.com/id/TiozaoGamer/">
+        <img height="28" align="center" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="steam"/>
+    </a>
+    <a href="https://launcher.store.epicgames.com/u/745c9234c06a48a39bf6bb220fede12f">
+        <img height="28" align="center" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="epicgames"/>
+    </a>
+    <a href="#">
+        <img height="28" align="center" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" alt="ea"/>
+    </a>
+    <a href="#">
+        <img height="28" align="center" src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white" alt="psn - playstation network"/>
+    </a>
+    <a href="#">
+        <img height="28" align="center" src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black" alt="ubisoft"/>
+    </a>
+    <a href="#">
+        <img height="28" align="center" src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="battle.net"/>
+    </a>
+    <a href="#">
+        <img height="28" align="center" src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" alt="battle.net"/>
+    </a>
+<div>
+</div>
 <h3 align="left">Connect with me:</h3>
 <div>
     <a href="https://www.linkedin.com/in/chrisrsoares/">
-        <img height="28" align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img height="28" align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
     <a href="https://stackoverflow.com/users/4100388">
-        <img height="28" align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+        <img height="28" align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack overflow"/>
     </a>
     <a href="https://github.com/chrissoares">
-        <img height="28" align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+        <img height="28" align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github">
     </a>
     <a href="https://www.twitter.com/chrisrsoares">
-        <img height="28" align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+        <img height="28" align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/>
     </a>
     <a href="https://instagram.com/chrisrsoares">
-        <img height="28" align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+        <img height="28" align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
     </a>
 </div>
 
