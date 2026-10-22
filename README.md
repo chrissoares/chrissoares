@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">An apprentice in software development</h3>
 
-- 🌱 I’m currently learning **NodeJS, Javascript, React, Angular, Python**
+- 🌱 I’m currently using, and always learning **Prompt, NodeJS, Javascript, React, Angular, Python, .NET and VUE**
 
 <div align="center"> 
     <img height="350" align="center" src="https://github-readme-stats.vercel.app/api?username=chrissoares&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -10,7 +10,7 @@
     <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrissoares&theme=tokyonight&hide_border=true" />
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissoares&show_icons=true&layout=donut&theme=tokyonight&hide_border=true" />
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200" src="https://github-profile-trophy.vercel.app/?username=chrissoares&column=-1&theme=tokyonight&no-frame=true" alt="chrissoares" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200" src="https://github-profile-trophy.vercel.app/?username=chrissoares&column=-1&theme=tokyonight&no-frame=true" alt="chrissoares" /></a> </p> -->
 
 <h3 align="left">Languages:</h3>
 <table >
